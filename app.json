@@ -1,0 +1,15 @@
+{
+  "name": "kafe",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "mongolab"
+  ],
+  "buildpacks": [
+
+  ]
+}
